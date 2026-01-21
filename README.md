@@ -9,34 +9,44 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced JavaScript & React**
+- 🌱 I’m currently learning **Advanced JavaScript, React & Python**
 - 🎯 Focused on **Front-End Development**
-- 💡 Interested in UI/UX best practices
-- 🚀 Always improving my problem-solving skills
+- 🧠 Basic knowledge of **C++ for problem solving**
+- 💡 Interested in **UI/UX & responsive design**
+- 🚀 Always improving my skills
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <!-- Front-End -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
 ### 📌 What I Can Do
 
-- Build responsive websites using **HTML, CSS, JavaScript**
-- Create reusable components with **React**
+- Build responsive websites using **HTML, CSS, Bootstrap**
+- Write clean **JavaScript** code
+- Build interactive UIs using **React**
+- Solve problems using **C++**
+- Write basic scripts using **Python**
 - Work with **Git & GitHub**
-- Convert UI designs into clean code
-- Write readable and maintainable code
 
 ---
 
@@ -52,8 +62,8 @@
 
 - 💼 GitHub: https://github.com/YOUR_USERNAME
 - 📧 Email: your-email@example.com
-- 🌐 Portfolio: (Coming Soon)
+- 🌐 Portfolio: Coming Soon
 
 ---
 
-⭐️ Feel free to check my repositories and give feedback!
+⭐️ Feel free to explore my repositories!
