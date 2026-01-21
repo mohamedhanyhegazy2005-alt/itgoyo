@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hany</h1>
+<h1 align="center"> 👋 Mohamed Hany</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ### 📫 Contact Me
 
 - 💼 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: your-email@example.com
+- 📧 Email: Mohamedhanyhegazy2005@Gmail.com
 - 🌐 Portfolio: Coming Soon
 
 ---
