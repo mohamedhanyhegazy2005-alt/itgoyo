@@ -60,7 +60,6 @@
 
 ### 📫 Contact Me
 
-- 💼 GitHub: https://github.com/itgoyo
 - 📧 Email: Mohamedhanyhegazy2005@Gmail.com
 - 🌐 Portfolio: Coming Soon
 
